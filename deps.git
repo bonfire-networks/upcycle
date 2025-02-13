@@ -1,2 +1,8 @@
-# bonfire_common = "https://github.com/bonfire-networks/bonfire_common"
-# bonfire_ui_common = "https://github.com/bonfire-networks/bonfire_ui_common"
+ember = "https://gitlab.com/bonfire-networks/ember"
+
+bonfire_upcycle = "https://gitlab.com/bonfire-networks/bonfire_upcycle"
+
+bonfire_valueflows = "https://github.com/bonfire-networks/bonfire_valueflows"
+
+bonfire_valueflows_observe = "https://github.com/bonfire-networks/bonfire_valueflows_observe"
+
