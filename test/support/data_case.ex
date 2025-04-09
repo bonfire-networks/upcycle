@@ -23,6 +23,8 @@ defmodule Upcycle.DataCase do
       import Ecto.Changeset
       import Ecto.Query
       # import Upcycle.DataCase
+
+      @moduletag :backend
     end
   end
 
